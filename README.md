@@ -2,4 +2,4 @@
 
 By Valeria Moreno
 
-Due Sept. 8th
+An in-class HTML and CSS practice assignment. Due Sept. 15th.
